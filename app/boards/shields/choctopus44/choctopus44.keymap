@@ -35,7 +35,7 @@
         &trans    &trans    &trans  &trans   &trans   &kp CAPS    &kp C_PLAY_PAUSE    &kp LS(NON_US_HASH) &kp NON_US_HASH   &kp EQUAL   &kp GRAVE   &trans    &trans
                             &trans  &trans   &trans   &trans                          &trans              &mo 3             &trans      &trans
       >;
-tttttttttttttttttttttt      sensor-bindings = <&inc_dec_kp LEFT RIGHT>;
+      sensor-bindings = <&inc_dec_kp LEFT RIGHT>;
     };
 
     raise_layer {
